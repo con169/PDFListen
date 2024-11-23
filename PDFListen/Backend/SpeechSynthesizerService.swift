@@ -1,5 +1,10 @@
 import AVFoundation
-
+// SpeechSynthesizerService.swift
+// Handles text-to-speech functionality.
+//
+// This service manages speech synthesis using `AVSpeechSynthesizer`.
+// It allows text from the PDF to be spoken aloud, with options for pausing, resuming, and stopping.
+//
 class SpeechSynthesizerService {
     private let synthesizer = AVSpeechSynthesizer()
 

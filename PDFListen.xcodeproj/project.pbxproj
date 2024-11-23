@@ -30,7 +30,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F76134BA2CF11C8B0030B4BD /* PDFListen */ = {
+		F70E65EB2CF1AFBE0011BF2E /* PDFListen */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = PDFListen;
 			sourceTree = "<group>";
@@ -75,10 +75,10 @@
 		F76134AF2CF11C8B0030B4BD = {
 			isa = PBXGroup;
 			children = (
-				F76134BA2CF11C8B0030B4BD /* PDFListen */,
 				F76134CC2CF11C8D0030B4BD /* PDFListenTests */,
 				F76134D62CF11C8D0030B4BD /* PDFListenUITests */,
 				F76134B92CF11C8B0030B4BD /* Products */,
+				F70E65EB2CF1AFBE0011BF2E /* PDFListen */,
 			);
 			sourceTree = "<group>";
 		};
@@ -108,7 +108,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F76134BA2CF11C8B0030B4BD /* PDFListen */,
+				F70E65EB2CF1AFBE0011BF2E /* PDFListen */,
 			);
 			name = PDFListen;
 			packageProductDependencies = (
